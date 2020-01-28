@@ -4,7 +4,7 @@ Dotfiles are the customization files that are used to personalize your Linux or 
 
 # Who Am I?
 
-I am Michael Valladares (sspace), I am currently a Comupter Engineering Student and part time streamer. I have an interest in developing programs using vim and python.
+I am Michael Valladares, I am currently a Comupter Engineering Student. I have an interest in developing programs using vim and python.
 
 # How To Manage Your Own Dotfiles
 
